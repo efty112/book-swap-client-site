@@ -1,0 +1,82 @@
+[
+    {
+        "id" : 1,
+        "bookImage": "https://i.postimg.cc/02ZHsFGY/content.jpg",
+        "bookName": "The Great Gatsby",
+        "bookDescription": "A captivating tale of wealth, love, and the American Dream.",
+        "bookProviderImage": "https://i.postimg.cc/7ZGnfZJN/79dd11a9452a92a1accceec38a45e16a.jpg",
+        "bookProviderName": "MD. Abid Ali"
+    },
+    {
+        "id" : 2,
+        "bookImage": "https://i.postimg.cc/2j70QMKs/9781784752637.jpg",
+        "bookName": "To Kill a Mockingbird",
+        "bookDescription": "A classic story of racial injustice and coming of age.",
+        "bookProviderImage": "https://i.postimg.cc/7ZGnfZJN/79dd11a9452a92a1accceec38a45e16a.jpg",
+        "bookProviderName": "Masum Khan"
+    },
+    {
+        "id" : 3,
+        "bookImage": "https://i.postimg.cc/xCy3PNtv/1984.jpg",
+        "bookName": "1984",
+        "bookDescription": "A dystopian novel exploring totalitarianism and surveillance.",
+        "bookProviderImage": "https://i.postimg.cc/7ZGnfZJN/79dd11a9452a92a1accceec38a45e16a.jpg",
+        "bookProviderName": "Roger Federar"
+    },
+    {
+        "id" : 4,
+        "bookImage": "https://i.postimg.cc/pVsDXH7L/images.jpg",
+        "bookName": "Pride and Prejudice",
+        "bookDescription": "A witty and romantic tale of love and social class.",
+        "bookProviderImage": "https://i.postimg.cc/d0GRjNBk/images-2.jpg",
+        "bookProviderName": "Leonel Messi"
+    },
+    {
+        "id" : 5,
+        "bookImage": "https://i.postimg.cc/9MW7C8Y9/images-1.jpg",
+        "bookName": "The Catcher in the Rye",
+        "bookDescription": "A coming-of-age story exploring teenage angst and alienation.",
+        "bookProviderImage": "https://i.postimg.cc/d0GRjNBk/images-2.jpg",
+        "bookProviderName": "Cristiano Ronaldo"
+    },
+    {
+        "id" : 6,
+        "bookImage": "https://i.postimg.cc/gctZbKXw/y648.jpg",
+        "bookName": "The Lord of the Rings",
+        "bookDescription": "An epic fantasy adventure filled with magic and mythical creatures.",
+        "bookProviderImage": "https://i.postimg.cc/d0GRjNBk/images-2.jpg",
+        "bookProviderName": "Neymar De Silva Santos Jr"
+    },
+    {
+        "id" : 7,
+        "bookImage": "https://i.postimg.cc/02ZHsFGY/content.jpg",
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "bookDescription": "A magical journey for a young wizard.",
+        "bookProviderImage": "https://i.postimg.cc/d0GRjNBk/images-2.jpg",
+        "bookProviderName": "Cristiano Ronaldo"
+    },
+    {
+        "id" : 8,
+        "bookImage": "https://i.postimg.cc/9MW7C8Y9/images-1.jpg",
+        "bookName": "The Alchemist",
+        "bookDescription": "A fable about following your dreams and finding your personal legend.",
+        "bookProviderImage": "https://i.postimg.cc/kg0F8PxP/images-3.jpg",
+        "bookProviderName": "Cristiano Ronaldo"
+    },
+    {
+        "id" : 9,
+        "bookImage": "https://i.postimg.cc/gctZbKXw/y648.jpg",
+        "bookName": "The Hitchhiker's Guide to the Galaxy",
+        "bookDescription": "A humorous sci-fi comedy about life, the universe, and everything.",
+        "bookProviderImage": "https://i.postimg.cc/kg0F8PxP/images-3.jpg",
+        "bookProviderName": "Cristiano Ronaldo"
+    },
+    {
+        "id" : 10,
+        "bookImage": "https://i.postimg.cc/gctZbKXw/y648.jpg",
+        "bookName": "The Girl with the Dragon Tattoo",
+        "bookDescription": "A thrilling crime novel with a complex and intriguing protagonist.",
+        "bookProviderImage": "https://i.postimg.cc/kg0F8PxP/images-3.jpg",
+        "bookProviderName": "Mohammad Salah"
+    }
+]
